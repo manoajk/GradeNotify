@@ -1,0 +1,6 @@
+ACCOUNT_SID = 'Your Twilio Account SID'
+AUTH_TOKEN = 'Your Twilio Auth Token'
+myNum = 'outgoing phone number (recipient of text)'
+twilioNum = 'your Twilio number (sender of text)'
+username = 'Georgia Tech Username'
+password = 'Georgia Tefch password'
